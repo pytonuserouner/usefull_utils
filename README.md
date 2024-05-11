@@ -1,1 +1,1 @@
-some usefull utils
+some usefull utils and progs for fast programming
